@@ -1,9 +1,4 @@
 
-### **Dashboard**
-
-- Displays an introduction to [Luuk.gg](https://luuk.gg)
-- Displays detailed descriptions of each page
-
 ### **Career**
 
 - Implements the [Github GraphQL API](https://docs.github.com/en/graphql) and [Google Maps API](https://developers.google.com/maps)
